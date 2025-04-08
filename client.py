@@ -2,7 +2,7 @@ import socket
 import threading
 import sys
 
-DEFAULT_HOST = "129.213.136.50"
+DEFAULT_HOST = "167.172.16.140"
 DEFAULT_PORT = 5500
 
 HOST = DEFAULT_HOST
